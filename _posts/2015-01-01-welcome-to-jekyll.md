@@ -5,7 +5,7 @@ subtitle: Conducted research and provided insightful recommendations to solve th
 author: Andrea Dsouza
 categories: UXResearch
 banner:
-  image: /Users/andreadsouza/Documents/Portfolio/AndreaDsouz.github.io/assets/images/banners/3dexperience-works-banner.jpg
+  image: /assets/images/banners/3dexperience-works-banner.jpg
   loop: true
   volume: 0.8
   start_at: 8.5
