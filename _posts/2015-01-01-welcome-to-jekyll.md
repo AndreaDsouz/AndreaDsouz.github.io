@@ -3,7 +3,7 @@ layout: post
 title: Traceability
 subtitle: Conducted research and provided insightful recommendations to solve the problem of traceability within the simulation application.
 author: Andrea Dsouza
-categories: "UX Research"
+categories: 'UX Research'
 banner:
   loop: true
   volume: 0.8
@@ -22,51 +22,26 @@ sidebar: []
 
 
 
-## section 1
+## At-A-Glance
 
-Jekyll also offers powerful support for code snippets:
+During the summer, I collaborated with Simulia's User Experience R&D team. My primary responsibility involved working closely with a senior UX designer on the traceability project. In this role, I conducted research and offered insights aimed at addressing the challenge of job traceability within Process Composer, a simulation software developed by Simulia.
 
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+| Role                  | Stakeholders          | Methods               | Timeline              |
+| --------------------- | --------------------- | --------------------- | --------------------- |
+| UX Research Intern    | UX Director           | Contextual Inquiries  | 6 weeks               |
+|                       | Senior UX Designer    | Journey Maps          |                       |
+|                       | Development Manager   | Affinity Diagram      |                       |
 
-## section 2
+## Overview
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+# What is Process Composer?
+Process composer helps customers integrate applications, disciplines and data by including visualization of activities  in a complex process automation as a flow chart or diagram, using parallel or conditional branching to control which activities are executed and helps control the flow of data. It also enables the customer to automate their process to increase productivity, optimize and design exploration studies and democratize their process to allow for non experts to run the process with little or no training. Below is an overview of what the current state of the process composer looks like.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### Problems to solve
 
-$ a \* b = c ^ b $
-
-$ 2^{\frac{n-1}{3}} $
-
-$ \int_a^b f(x)\,dx. $
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-  cout << "Hello World!";
-  return 0;
-}
-// prints 'Hi, Tom' to STDOUT.
-```
-
-```python
-class Person:
-  def __init__(self, name, age):
-    self.name = name
-    self.age = age
-
-p1 = Person("John", 36)
-
-print(p1.name)
-print(p1.age)
-```
+1. Users do not know how to recreate the results when a Simulation
+Process is run multiple times (inputs and configuration is unknown).
+2. Initialized/original values of parameters & configuration of the
+Simulation Process are lost when the process is run and job is created.
+3. Users end up in an inaccurate/unknown state if they make changes to
+the Simulation Process after running a job.

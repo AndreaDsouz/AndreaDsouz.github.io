@@ -108,7 +108,7 @@ yat:
 # spacegrey: #353535
 # snowwhite: #ffffff
 #
-# theme_color: snowwhite
+# theme_color: spacegrey
 #
 # Custom color as below:
 # theme_color: "#882250"
@@ -162,8 +162,8 @@ yat:
 # Page default value
 defaults:
   home:
-    heading: "Andrea DSouza"
-    subheading: "An Awesome Product Designer"
+    heading: "Andrea Dsouza"
+    subheading: "Fueled by curiosity, empathy, and a passion for collaboration, I am a meticulous problem-solver dedicated to crafting meaningful experiences."
     banner: "Your image url"
 
 # Banner default settings
