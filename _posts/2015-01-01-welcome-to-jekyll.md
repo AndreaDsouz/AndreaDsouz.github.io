@@ -3,12 +3,12 @@ layout: post
 title: Traceability
 subtitle: Conducted research and provided insightful recommendations to solve the problem of traceability within the simulation application.
 author: Andrea Dsouza
-categories: " UX Research "
+categories: "UX Research"
 banner:
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: assets/images/banners/3dexperience-works-banner.jpg
+  image: assets/images/3dexperience-works-banner.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
