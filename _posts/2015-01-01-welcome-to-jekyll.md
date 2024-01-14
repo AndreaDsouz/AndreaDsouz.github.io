@@ -3,7 +3,7 @@ layout: post
 title: Traceability
 subtitle: Conducted research and provided insightful recommendations to solve the problem of traceability within the simulation application.
 author: Andrea Dsouza
-categories: 'UX Research'
+categories: ["UX Research"]
 banner:
   loop: true
   volume: 0.8
@@ -45,3 +45,5 @@ Process is run multiple times (inputs and configuration is unknown).
 Simulation Process are lost when the process is run and job is created.
 3. Users end up in an inaccurate/unknown state if they make changes to
 the Simulation Process after running a job.
+
+<img src="/assets/images/Group 197.jpg" alt="example image" style="width: 300px; height: 400px;">
